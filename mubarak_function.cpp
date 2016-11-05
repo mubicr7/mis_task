@@ -5,7 +5,7 @@ void helloworld()
 {
 	cout<<"I am Mubarak";
 	
-	cout<<"My Roll number is i130190";
+	cout<<"heelo";
 	
 	cout<<"Mubarak's branch";
 }
@@ -14,6 +14,6 @@ int main()
 {
 	helloworld();
 	
-	int i=0;
+	int i=20;
 	int k=10;
 }
