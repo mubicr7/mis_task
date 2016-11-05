@@ -10,7 +10,6 @@ void add()
 	cout<<"Addition is:";	
 	cout<<a+b<<endl;
 	cout<<"Zain Aftab, 140333";
-	cout<<"best";
 }
 
 int main()
